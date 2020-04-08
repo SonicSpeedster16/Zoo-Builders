@@ -1,0 +1,149 @@
+﻿# ============================================== #
+#         Zoo Builders 0.1.0 (04-07-2020)        #
+# ============================================== #
+
+
+# ================= Mod Changes ================ #
+- Added Actually Additions r151-2
+- Added Advanced Generators 0.9.20.12
+- Added AnimalNet 1.12.2 Forge b3
+- Added AppleCore 3.2.0
+- Added AppleSkin 1.0.9
+- Added Aquaculture 2 1.6.8
+- Added Athenaeum 1.17.4
+- Added Baubles 1.5.2
+- Added Better Animals Plus 9.0.0
+- Added BetterFps 1.4.8
+- Added -Better Advancements 1.0.77
+- Added Better Burning 0.9.2
+- Added BdLib 1.14.3.12
+- Added Binnie's Mods 2.5.1.203
+- Added Biomes O' Plenty 7.0.1.2444
+- Added BlockCraftery 1.3.1
+- Added Bookworm 2.5.1
+- Added Botania r1.10-363
+- Added Building Gadgets 2.8.2
+- Added Chameleon 4.1.3
+- Added Chest Transporter 2.8.8
+- Added Chisel 1.0.2.45
+- Added Clumps 3.1.2
+- Added CodeChicken Lib 1.8.+ 3.2.3.358
+- Added Comforts 1.4.1.3
+- Added ConnectedTexturesMod 1.0.2.31
+- Added Controlling 3.0.8
+- Added Cooking For Blockheads 6.5.0
+- Added Corpse 1.0.6
+- Added Crafting Station 0.1.7b
+- Added Crafting Tweaks 8.1.9
+- Added CrafTweaker 4.1.20
+- Added Custom Main Menu 2.0.9.1
+- Added Deep Mob Learning 2.5.2
+- Added Defiled Lands 1.4.3
+- Added Diet Hoppers 1.1
+- Added Doggy Talents 1.15.1.4
+- Added EnderCore 0.5.74
+- Added Ender IO Base 5.1.55
+- Added Ender IO Machines 5.1.55
+- Added Ender IO Conduits 5.1.55
+- Added Ender IO RS Conduits 5.1.55
+- Added Ender IO Forestry 5.1.55
+- Added Ender IO Zoo 5.1.55
+- Added Ender Storage 1.8+ 2.4.6.137
+- Added Enchantment Descriptions 1.1.20
+- Added Factory Tech 1.6.A
+- Added FastFlyBlockBreaking 1.9.4
+- Added FastFurnace 1.3.1
+- Added FastWorkbench 1.7.3
+- Added Fence Jumper 1.0.5
+- Added FTB Backups 1.1.0.1
+- Added FTB Library 5.4.7.0
+- Added FTB Utilities 5.4.0.124
+- Added FoamFix 0.10.10
+- Added Foodinator 1.0
+- Added Forestry 5.8.2.422
+- Added Fossils and Archeology Revival 8.0.4
+- Added Garbage Bins 1.1.1
+- Added Gauges and Switches 1.2.21
+- Added Gendustry 1.6.5.8
+- Added Gendustry JEI Addon 1.0.2
+- Added Inventory Pets 2.0.4
+- Added Inventory Tweaks 1.64+dev.150
+- Added IV Toolkit 1.3.3
+- Added JEI Bees 0.9.0.5
+- Added JEI Integration 1.5.1.36
+- Added Just Enough Items 4.15.0.293
+- Added Just Enough Resources 0.9.2.60
+- Added Large Fluid Tank 12.5.0
+- Added Light Level Overlay Reloaded 1.1.6
+- Added LLibrary 1.7.19
+- Added Lucky Ores 1.3
+- Added Mantle 1.3.3.55
+- Added McJtyLib 3.5.4
+- Added MeeCreeps 1.3.1
+- Added Metal Chests 6.1.0
+- Added Mod Name Tooltip 1.10.1
+- Added Morpheus 3.5.106
+- Added Mouse Tweaks 2.10
+- Added MysticalLib 1.7.0
+- Added Nature's Aura 18.1
+- Added Nature's Compass 1.8.5
+- Added NetherPortalFix 5.3.17
+- Added NuclearCraft 2.18r
+- Added OpenBlocks Elevator 1.3.14
+- Added Ore Excavation 1.4.150
+- Added Packing tape 0.7.6
+- Added Patchouli 1.0-20
+- Added Phosphor 0.2.7
+- Added Placebo 1.6.0
+- Added PlantTech 2 1.0.9
+- Added PneumaticCraft: Repressurized 0.11.13-394
+- Added Portality 1.2.3-15
+- Added Ranged Pumps 0.5
+- Added RandomPatches 1.21.0.1
+- Added RandomTweaks 2.7.1.0
+- Added ReAuth 3.6.0
+- Added Recurrant Complex 1.4.8.2
+- Added Refined Storage 1.6.15
+- Added Refined Storage Addons 0.4.4
+- Added Rustic 1.1.2
+- Added Serene Seasons 1.2.18
+- Added ShadowFact's Forgelin 1.8.4
+- Added Sign Button 1.0.1
+- Added Simply Backpacks 1.2.3
+- Added Simply Light 0.8.7
+- Added Slide'em ALL 1.03
+- Added Smooth Font 2.1.1
+- Added Snad 1.7.09.16a
+- Added Spice of Life: Carrot Edition 1.8.3
+- Added Storage Drawers 5.4.1
+- Added Storage Drawers Extras 3.1.0
+- Added SwingThoughGrass 1.2.3
+- Added Super Sound Muffler: Revived 1.0.2.10
+- Added Surge 2.0.79
+- Added TBone 1.6.8
+- Added The Lost Cities 2.0.22
+- Added The One Probe 1.4.28
+- Added The Twilight Forest 3.10.1013
+- Added Toast Control 1.8.1
+- Added TOP Addons 1.13.0
+- Added Torchmaster 1.8.1
+- Added UniDict 2.9.6
+- Added VanillaFix 1.0.10-150
+- Added Villager Market 1.0.2.13
+- Added Waddles 0.6.0
+- Added WanionLib 2.4
+- Added Watercan 1.1.3
+- Added Waystones 4.1.0
+- Added Waystones2Waypoints 1.1.1
+- Added Xaero's Minimap 20.6.0
+- Added Xaero's World Map 1.5.6
+- Added XL Food Mod 1.9.2
+- Added ZAWA 2.0.2
+
+# =============== Config Changes =============== #
+
+
+# =============== Script Changes =============== #
+
+
+# ============================================== #
