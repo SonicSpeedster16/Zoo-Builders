@@ -1,5 +1,5 @@
 ignoreUpdate:0
-updateNotification:true
+updateNotification:false
 differentiateByServerAddress:true
 debug:false
 lighting:true
@@ -14,4 +14,4 @@ compression:false
 coordinates:true
 biomeColorsVanillaMode:false
 waypoints:true
-globalVersion:1
+globalVersion:2

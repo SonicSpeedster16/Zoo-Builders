@@ -1,7 +1,7 @@
 #CONFIG ONLY OPTIONS
 ignoreUpdate:0
-updateNotification:true
-settingsButton:false
+updateNotification:false
+settingsButton:true
 allowWrongWorldTeleportation:false
 differentiateByServerAddress:true
 #INGAME SETTINGS (DO NOT EDIT!)
@@ -41,7 +41,7 @@ blockColours:0
 lighting:true
 dotsScale:1.0
 compassOverWaypoints:false
-showBiome:false
+showBiome:true
 showEntityHeight:true
 showFlowers:true
 keepWaypointNames:false
@@ -76,9 +76,9 @@ zoomedOutEnlarged:false
 entityNametags:false
 minimapTextAlign:0
 showAngles:false
-interface:dummy:0:0:true:false:false:false
+interface:dummy:0:36:true:false:false:false
 interface:dummy:0:10000:true:false:false:false
 interface:dummy:0:0:false:false:true:false
 interface:dummy:0:36:true:false:false:false
-interface:gui.xaero_minimap:0:0:false:false:false:false
+interface:gui.xaero_minimap:0:0:false:false:true:false
 #WAYPOINTS HAVE BEEN MOVED TO xaerowaypoints.txt!
