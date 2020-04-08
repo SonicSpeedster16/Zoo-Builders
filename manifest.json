@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Zoo Builders",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "author": "SonicSpeedster16",
   "projectID": 373617,
   "files": [
@@ -433,6 +433,11 @@
     {
       "projectID": 241160,
       "fileID": 2612052,
+      "required": true
+    },
+    {
+      "projectID": 238794,
+      "fileID": 2836904,
       "required": true
     },
     {

@@ -1,0 +1,23 @@
+﻿# ============================================== #
+#         Zoo Builders 0.3.0 (04-08-2020)        #
+# ============================================== #
+
+
+# ================= Mod Changes ================ #
+
+Added Nomadic Tents 9.5.2
+
+# =============== Config Changes =============== #
+
+- Restored default generation profile for the Lost Cities dimension.
+- Tweaked number of extra hearts you can get by eating unique foods.
+- Disabled the unfinished NuclearCraft Wasteland dimension.
+- Enabled recipes for the Cloud, Slime and Pufferfish pets.
+- Profiled and enabled Just Enough Resources information.
+- Fixed some plants and saplings not growing in the correct seasons.
+
+# =============== Script Changes =============== #
+
+- Added a few Quality of Life recipes.
+
+# ============================================== #
