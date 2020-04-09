@@ -18,6 +18,31 @@
 ------------------------------------------------------------------------
 
 # ============================================== #
+#         Zoo Builders 0.4.0 (04-09-2020)        #
+# ============================================== #
+
+
+# ================= Mod Changes ================ #
+
+
+# =============== Config Changes =============== #
+
+- Increased the amount of unique foods to eat before gaining extra health.
+- Fixed a few more seeds/plants not having growable seasons.
+- Added additional valid mobs to Deep Mob Learning data models.
+
+# =============== Script Changes =============== #
+
+- Fixed several recipe conflicts.
+- Fixed a few items missing Ore Dictionary entries.
+
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+
+
+# ============================================== #
+
+# ============================================== #
 #         Zoo Builders 0.3.0 (04-08-2020)        #
 # ============================================== #
 
