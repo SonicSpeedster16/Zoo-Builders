@@ -29,14 +29,12 @@ print("==== Initializing oredict.zs ====");
 # Fruit
 <ore:listAllfruit>.add(<forestry:fruits:0>); /* Cherry */
 <ore:listAllfruit>.add(<forestry:fruits:3>); /* Lemon */
-<ore:listAllcitrus>.add(<forestry:fruits:3>);
 <ore:listAllfruit>.add(<forestry:fruits:4>); /* Plum */
 <ore:listAllfruit>.add(<forestry:fruits:5>); /* Date */
 <ore:listAllfruit>.add(<forestry:fruits:6>); /* Papaya */
 
 # Misc
 <ore:mycelium>.add(<biomesoplenty:grass:8>);
-<ore:cropEdibleRoot>.add(<biomesoplenty:plant_1:9>);
 
 /*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # Remove Ore Dictionary entries

@@ -1,9 +1,17 @@
 ﻿# ============================================== #
-#         Zoo Builders vNext (XX-XX-2020)        #
+#         Zoo Builders 1.0.0 (04-09-2020)        #
 # ============================================== #
+
+- First public release!
 
 # ================= Mod Changes ================ #
 
+- Added Chisels & Bits 14.33
+- Added Flat Colored Blocks 6.8
+- Updated EnderCore (0.5.74 > 0.5.75)
+- Updated Inventory Tweaks (1.64+dev.150 > 1.64+dev.151)
+- Updated Xaero's Minimap (20.6.0 > 20.7.1)
+- Updated Xaero's World Map (1.5.6 > 1.5.7)
 
 # =============== Config Changes =============== #
 
