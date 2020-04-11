@@ -1,0 +1,22 @@
+﻿# ============================================== #
+#         Zoo Builders 1.1.0 (04-11-2020)        #
+# ============================================== #
+
+
+# ================= Mod Changes ================ #
+
+- Added Trophies: ZAWA Addon 1.0.2
+- Updated CraftTweaker (4.1.20 > 4.1.20.562)
+- Updated Foodinator (1.0 > 1.1)
+
+# =============== Config Changes =============== #
+
+- Players now receive the Food Book when joining a world.
+- Eating raw meat no longer counts towards gaining hearts.
+- Low nutritious food no longer counts towards gaining hearts.
+- Players now receive an extra heart for every 15 unique foods they eat.
+
+# =============== Script Changes =============== #
+
+
+# ============================================== #
