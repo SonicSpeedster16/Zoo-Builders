@@ -1,0 +1,24 @@
+﻿# ============================================== #
+#         Zoo Builders 1.2.0 (04-14-2020)        #
+# ============================================== #
+
+
+# ================= Mod Changes ================ #
+
+- Added XP Tome 1.1.4
+- Updated Building Gadgets (2.8.2 > 2.8.3)
+- Updated Controlling (3.0.8 > 3.0.9)
+
+# =============== Config Changes =============== #
+
+- Disabled Forge logging cascading worldgen lag.
+- Increased number of naturally spawning structures in world.
+- Added a few Easter Eggs (hint: be sure to activate Waystones you find).
+- Disabled the Recipe Book button (JEI is better).
+
+# =============== Script Changes =============== #
+
+- Changed recipe for the XP Tome so that it doesn't require Ender Pearls.
+- Added a recipe for Silk Wisp (to make it slightly eaiser to upgrade backpacks).
+
+# ============================================== #

@@ -36,6 +36,10 @@ print("==== Initializing oredict.zs ====");
 # Misc
 <ore:mycelium>.add(<biomesoplenty:grass:8>);
 
+# For custom recipes:
+<ore:itemWorm>.add(<actuallyadditions:item_worm>);
+<ore:itemWorm>.add(<twilightforest:moonworm>);
+
 /*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # Remove Ore Dictionary entries
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
