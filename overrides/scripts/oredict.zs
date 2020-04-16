@@ -33,6 +33,27 @@ print("==== Initializing oredict.zs ====");
 <ore:listAllfruit>.add(<forestry:fruits:5>); /* Date */
 <ore:listAllfruit>.add(<forestry:fruits:6>); /* Papaya */
 
+# Seeds
+<ore:listAllSeed>.add(<minecraft:wheat_seeds>);
+<ore:listAllSeed>.add(<minecraft:pumpkin_seeds>);
+<ore:listAllSeed>.add(<minecraft:melon_seeds>);
+<ore:listAllSeed>.add(<minecraft:beetroot_seeds>);
+<ore:listAllSeed>.add(<actuallyadditions:item_rice_seed>);
+<ore:listAllSeed>.add(<actuallyadditions:item_canola_seed>);
+<ore:listAllSeed>.add(<actuallyadditions:item_flax_seed>);
+<ore:listAllSeed>.add(<actuallyadditions:item_coffee_seed>);
+<ore:listAllSeed>.add(<rustic:grape_stem>);
+<ore:listAllSeed>.add(<rustic:apple_seeds>);
+<ore:listAllSeed>.add(<rustic:tomato_seeds>);
+<ore:listAllSeed>.add(<rustic:chili_pepper_seeds>);
+<ore:listAllSeed>.add(<xlfoodmod:rice_seeds>);
+<ore:listAllSeed>.add(<xlfoodmod:pepper_seeds>);
+<ore:listAllSeed>.add(<xlfoodmod:corn_seeds>);
+<ore:listAllSeed>.add(<xlfoodmod:cucumber_seeds>);
+<ore:listAllSeed>.add(<xlfoodmod:lettuce_seeds>);
+<ore:listAllSeed>.add(<xlfoodmod:tomato_seeds>);
+<ore:listAllSeed>.add(<xlfoodmod:strawberry_seeds>);
+
 # Misc
 <ore:mycelium>.add(<biomesoplenty:grass:8>);
 

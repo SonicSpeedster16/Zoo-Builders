@@ -2,7 +2,7 @@
 #Author: SonicSpeedster16
 #Written for use in the Zoo Builders modpack: https://www.curseforge.com/minecraft/modpacks/zoo-builders
 
-print("==== xptome.zs ====");
+print("==== Initializing xptome.zs ====");
 
 recipes.remove(<xpbook:xp_book:1395>);
 recipes.addShaped("XP_Tome_alt",
@@ -12,4 +12,4 @@ recipes.addShaped("XP_Tome_alt",
   [null, <ore:gemEmerald>, null]
 ]);
 
-print("==== xptome.zs ====");
+print("==== Initialized xptome.zs ====");

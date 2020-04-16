@@ -18,7 +18,12 @@ Remove items
 ~~~~~~~~~~~*/
 
 # Remove ores that are not generated in the world
+JEI.removeAndHide(<factorytech:ore:0>); /* Copper Ore */
 JEI.removeAndHide(<forestry:resources:1>); /* Copper Ore */
 JEI.removeAndHide(<forestry:resources:2>); /* Tin Ore */
+
+# Remove Adventurer's Backpack
+JEI.removeAndHide(<forestry:adventurer_bag>);
+JEI.removeAndHide(<forestry:adventurer_bag_t2>);
 
 print("==== Initialized jei.zs ====");

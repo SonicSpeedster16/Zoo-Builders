@@ -2,7 +2,7 @@
 #Author: SonicSpeedster16
 #Written for use in the Zoo Builders modpack: https://www.curseforge.com/minecraft/modpacks/zoo-builders
 
-print("==== forestry.zs ====");
+print("==== Initializing forestry.zs ====");
 
 # Add a recipe to create Silk Wisp
 recipes.addShaped("Silk_Wisp_custom",
@@ -12,4 +12,4 @@ recipes.addShaped("Silk_Wisp_custom",
   [<ore:treeLeaves>, <ore:treeLeaves>, <ore:treeLeaves>]
 ]);
 
-print("==== forestry.zs ====");
+print("==== Initialized forestry.zs ====");
