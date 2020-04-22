@@ -13,9 +13,9 @@ Custom Tooltips
 
 <inventorypets:cloud_pet>.addTooltip(format.aqua("Provides Creative Flight"));
 
-/* ~~~~~~~~~
-Remove items
-~~~~~~~~~~~*/
+/* ~~~~~~~~~~~~~~
+Remove/hide items
+~~~~~~~~~~~~~~~~*/
 
 # Remove ores that are not generated in the world
 JEI.removeAndHide(<factorytech:ore:0>); /* Copper Ore */
@@ -25,5 +25,11 @@ JEI.removeAndHide(<forestry:resources:2>); /* Tin Ore */
 # Remove Adventurer's Backpack
 JEI.removeAndHide(<forestry:adventurer_bag>);
 JEI.removeAndHide(<forestry:adventurer_bag_t2>);
+
+# Hide duplicate items
+JEI.removeAndHide(<actuallyadditions:block_misc:5>); /* Charcoal Block */
+
+# Hide unnecessary categories
+JEI.hideCategory("Painter");
 
 print("==== Initialized jei.zs ====");

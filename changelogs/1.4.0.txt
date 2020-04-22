@@ -1,0 +1,29 @@
+﻿# ============================================== #
+#         Zoo Builders 1.4.0 (04-22-2020)        #
+# ============================================== #
+
+
+# ================= Mod Changes ================ #
+
+- Updated Better Animals Plus (9.0.0 > 9.0.1)
+- Updated PneumaticCraft: Repressurized (0.11.13-394 > 0.11.14-395)
+- Updated RandomPatches (1.21.0.1 > 1.21.0.2)
+- Updated ZAWA (2.0.2 > 2.0.3)
+
+# =============== Config Changes =============== #
+
+- Players now also receive the Factory Tech handbook when joining a world.
+- Tweaked some ZAWA animal spawn rates.
+- Stopped Unidict from interfering with recipes for certain items.
+
+# =============== Script Changes =============== #
+
+- Any type of milk now works in recipes.
+- Fixed some recipes to use Ore Dictionary items instead of only Vanilla items.
+- Added a method to obtain Coal Coke.
+- Added support for Knightmetal to Nuclearcraft machines.
+- Fixed an issue where Nuclearcraft machines would output the wrong block.
+- Removed recipes for items from the Ender IO Endergy module.
+- Fixed stack size for cakes.
+
+# ============================================== #

@@ -4,9 +4,9 @@
 
 print("==== Initializing oredict.zs ====");
 
-/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-# Add missing Ore Dictionary entries
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Add missing Ore Dictionary entries
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
 # Dirt
 <ore:dirt>.add(<minecraft:dirt:1>); /* Course Dirt */
 <ore:dirt>.add(<biomesoplenty:dirt:0>); /* Loamy Dirt */
@@ -56,14 +56,15 @@ print("==== Initializing oredict.zs ====");
 
 # Misc
 <ore:mycelium>.add(<biomesoplenty:grass:8>);
+<ore:listAllMilk>.add(<minecraft:milk_bucket>);
 
 # For custom recipes:
 <ore:itemWorm>.add(<actuallyadditions:item_worm>);
 <ore:itemWorm>.add(<twilightforest:moonworm>);
 
-/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-# Remove Ore Dictionary entries
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remove Ore Dictionary entries
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
 <ore:blockGlassWhite>.remove(<enderio:block_fused_glass>);  /* Quite CLEAR Glass is not white */
 
 print("==== Initialized oredict.zs ====");

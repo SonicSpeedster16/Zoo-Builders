@@ -4,7 +4,7 @@
 
 print("==== Initializing conflicts.zs ====");
 
-/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Tweak recipes to avoid conflicts
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
 
@@ -42,7 +42,7 @@ recipes.addShaped("Obsidian_Spikes_alt",
   [<ore:obsidian>, <ore:obsidian>, <ore:obsidian>]
 ]);
 
-/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Remove recipes to avoid conflicts
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
 
