@@ -1,0 +1,24 @@
+﻿# ============================================== #
+#         Zoo Builders 1.5.0 (04-28-2020)        #
+# ============================================== #
+
+
+# ================= Mod Changes ================ #
+
+- Added Ender Crop 1.6.0
+- Added Ender Mail 1.0.3
+- Updated Refined Storage (1.6.15 > 1.6.16)
+- Updated Refined Storeage Addons (0.4.4 > 0.4.5)
+- Updated Xaero's Minmap (20.7.1 > 20.8.0)
+- Updated ZAWA (2.0.32 > 2.0.35)
+
+# =============== Config Changes =============== #
+
+- Tilling Endstone does not require a hoe with unbreaking.
+- Increased the dungeon spawn wieght of Ender Seeds.
+
+# =============== Script Changes =============== #
+
+- Added a method for processing Rock Salt picked up with Silk Touch.
+
+# ============================================== #

@@ -15,6 +15,9 @@ recipes.addShaped("Steel_Ingot_to_Block",
 # Add a method for obtaining Coal Coke
 mods.nuclearcraft.pressurizer.addRecipe([<minecraft:coal_block>, <chisel:block_coal_coke2:1>, 2.0, 1.0, 0.0]);
 
+# Add a method to process Rock Salt
+mods.nuclearcraft.manufactory.addRecipe([<xlfoodmod:rock_salt>, <xlfoodmod:salt>*4]);
+
 # Add support for Knightmetal
 mods.nuclearcraft.melter.addRecipe([<twilightforest:armor_shard_cluster>, <liquid:knightmetal>*144, 1.0, 1.0, 0.0]);
 mods.nuclearcraft.melter.addRecipe([<twilightforest:knightmetal_ingot>, <liquid:knightmetal>*144, 1.0, 1.0, 0.0]);
