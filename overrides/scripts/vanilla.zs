@@ -7,7 +7,7 @@ print("==== Initializing vanilla.zs ====");
 # Add a Name Tag recipe
 recipes.addShaped("Name_Tag_custom",
 <minecraft:name_tag>, [
-  [null, null, <minecraft:string>],
+  [null, null, <ore:string>],
   [null, <ore:paper>, null],
   [<ore:ingotGold>, null, null]
 ]);

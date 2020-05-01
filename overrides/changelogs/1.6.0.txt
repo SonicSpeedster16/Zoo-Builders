@@ -5,11 +5,18 @@
 
 # ================= Mod Changes ================ #
 
+- Updated Athenaeum (1.17.4 > 1.18.0)
+- Updated RandomPatches (1.21.0.2 > 1.21.0.3)
+- Updated Xaero's Minimap (20.8.0 > 20.9.0)
 
 # =============== Config Changes =============== #
 
+- Increased growth rate of Ender Crops on farmland.
 
 # =============== Script Changes =============== #
 
+- Added missing recipe for Actually Additions Doughnut.
+- Added all types of Cooked Fish to the Ore Dictionary.
+- Adjusted several recipes to use Ore Dictionary items.
 
 # ============================================== #

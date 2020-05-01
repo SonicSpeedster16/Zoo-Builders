@@ -4,7 +4,11 @@
 
 print("==== Initializing fossil.zs ====");
 
-# Make the Toy Ball recipe use OreDict slime and white wool
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Replace specific items with OreDict items
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+
+# White Ball
 recipes.removeByRecipeName("fossil:toy_ball_white");
 recipes.addShaped("Toy_Ball_OreDict",
 <fossil:toyball:15>, [

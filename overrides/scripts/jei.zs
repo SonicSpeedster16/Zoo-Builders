@@ -26,8 +26,11 @@ JEI.removeAndHide(<forestry:resources:2>); /* Tin Ore */
 JEI.removeAndHide(<forestry:adventurer_bag>);
 JEI.removeAndHide(<forestry:adventurer_bag_t2>);
 
-# Hide duplicate items
+# Hide duplicate/unneeded items
 JEI.removeAndHide(<actuallyadditions:block_misc:5>); /* Charcoal Block */
+JEI.removeAndHide(<xlfoodmod:coffee_cup>);
+JEI.removeAndHide(<xlfoodmod:coffee>);
+JEI.removeAndHide(<xlfoodmod:cappuccino>);
 
 # Hide unnecessary categories
 JEI.hideCategory("Painter");

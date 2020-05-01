@@ -19,6 +19,7 @@ Add missing Ore Dictionary entries
 # Food Items
 <ore:foodCheese>.add(<actuallyadditions:item_food:0>);
 <ore:foodChocolatebar>.add(<actuallyadditions:item_food:9>);
+<ore:listAllpepper>.add(<xlfoodmod:pepper>);
 <ore:listAllmeatraw>.add(<twilightforest:raw_venison>);
 <ore:listAllmeatraw>.add(<twilightforest:raw_meef>);
 <ore:listAllmeatcooked>.add(<twilightforest:cooked_venison>);
@@ -32,6 +33,11 @@ Add missing Ore Dictionary entries
 <ore:listAllfruit>.add(<forestry:fruits:4>); /* Plum */
 <ore:listAllfruit>.add(<forestry:fruits:5>); /* Date */
 <ore:listAllfruit>.add(<forestry:fruits:6>); /* Papaya */
+
+# Fish
+<ore:listAllfishcooked>.add(<minecraft:cooked_fish>);
+<ore:listAllfishcooked>.add(<minecraft:cooked_fish:1>);
+<ore:listAllfishcooked>.add(<zawa:cooked_cichlid>);
 
 # Seeds
 <ore:listAllSeed>.add(<minecraft:wheat_seeds>);
