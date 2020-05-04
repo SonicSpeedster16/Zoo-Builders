@@ -4,6 +4,14 @@
 
 print("==== Initializing fossil.zs ====");
 
+# Add an extra recipe for Bio-Goo using amber
+recipes.addShaped("Bio-Goo_Amber",
+<fossil:bio_goo>*2, [
+  [<ore:egg>, <ore:cropWheat>, null],
+  [<ore:gemAmber>, <ore:listAllMilk>, null],
+  [null, null, null]
+]);
+
 /*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Replace specific items with OreDict items
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/

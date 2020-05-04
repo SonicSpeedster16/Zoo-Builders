@@ -19,6 +19,7 @@ Add missing Ore Dictionary entries
 # Food Items
 <ore:foodCheese>.add(<actuallyadditions:item_food:0>);
 <ore:foodChocolatebar>.add(<actuallyadditions:item_food:9>);
+<ore:listAllberry>.add(<biomesoplenty:berries>);
 <ore:listAllpepper>.add(<xlfoodmod:pepper>);
 <ore:listAllmeatraw>.add(<twilightforest:raw_venison>);
 <ore:listAllmeatraw>.add(<twilightforest:raw_meef>);
