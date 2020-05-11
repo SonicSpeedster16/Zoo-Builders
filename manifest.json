@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Zoo Builders",
-  "version": "1.6.0",
+  "version": "1.7.0",
   "author": "SonicSpeedster16",
   "projectID": 373617,
   "files": [
@@ -157,7 +157,7 @@
     },
     {
       "projectID": 316582,
-      "fileID": 2837973,
+      "fileID": 2953076,
       "required": true
     },
     {
@@ -326,13 +326,18 @@
       "required": true
     },
     {
+      "projectID": 297306,
+      "fileID": 2594861,
+      "required": true
+    },
+    {
       "projectID": 286710,
       "fileID": 2675062,
       "required": true
     },
     {
       "projectID": 296686,
-      "fileID": 2916071,
+      "fileID": 2952343,
       "required": true
     },
     {
@@ -347,7 +352,7 @@
     },
     {
       "projectID": 229380,
-      "fileID": 2914322,
+      "fileID": 2950275,
       "required": true
     },
     {
@@ -517,7 +522,7 @@
     },
     {
       "projectID": 258205,
-      "fileID": 2947145,
+      "fileID": 2948679,
       "required": true
     },
     {
@@ -577,7 +582,7 @@
     },
     {
       "projectID": 285742,
-      "fileID": 2775709,
+      "fileID": 2949817,
       "required": true
     },
     {
@@ -592,7 +597,7 @@
     },
     {
       "projectID": 223852,
-      "fileID": 2887858,
+      "fileID": 2952606,
       "required": true
     },
     {

@@ -1,0 +1,26 @@
+﻿# ============================================== #
+#         Zoo Builders 1.7.0 (05-11-2020)        #
+# ============================================== #
+
+
+# ================= Mod Changes ================ #
+
+- Added Friendship Bracelet 1.1.2
+- Updated Corpse (1.0.6 > 1.0.7)
+- Updated Gauges and Switches (1.2.2 > 1.2.3-b3)
+- Updated Inventory Pets (2.0.4 > 2.0.5)
+- Updated RandomTweaks (2.8.0.1 > 2.8.0.2)
+- Updated Smooth Font (2.1.1 > 2.1.2).
+- Updated Storage Drawers (5.4.1 > 5.4.2)
+
+# =============== Config Changes =============== #
+
+- Charcoal Blocks and Blaze Mesh can now be used in Advanced Generators.
+- Disabled extra tooltips added by Advanced Generators.
+- All tiers of Advanced Generators Turbines are now craftable.
+- Endstone now goes into the Digger's Backpack.
+
+# =============== Script Changes =============== #
+
+
+# ============================================== #
