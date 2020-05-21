@@ -1,5 +1,5 @@
 ﻿# ============================================== #
-#         Zoo Builders 1.8.0 (XX-XX-2020)        #
+#         Zoo Builders 1.8.0 (05-21-2020)        #
 # ============================================== #
 
 
@@ -7,17 +7,26 @@
 
 - Added Roguelike Dungeons - Fnar Edition 2.1.3
 - Added Scannable 1.6.3.24
+- Added Wards 1.3.1
+- Updated Crafting Station (0.1.7b > 0.1.7c)
 - Updated CraftTweaker (4.1.20.562 > 4.1.20.574)
 - Updated Gauges and Switches (1.2.3-b3 > 1.2.3)
-- Updated NuclearCraft (2.18r > 2.18s)
+- Updated NuclearCraft (2.18r > 2.18t)
+- Updated Spice of Life: Carrot Edition (1.8.3 > 1.8.4)
+- Updated Xaero's Minimap (20.9.0 > 20.11.0)
 - Removed AnimalNet
 
 # =============== Config Changes =============== #
 
 - Nether Wart and Mushrooms no longer grow in Winter.
-- Graphite can now be used in Advanced Generators.
+- Graphite can now be used in the Syngas Producer.
+- Hid some Chisel blocks for unobtainable metals (Cobalt, Platinum).
 
 # =============== Script Changes =============== #
 
+- Added Cooked Eel and Fried Eggs to the Ore Dictionary.
+- Undamaged Anvils and Cauldrons can now be melted down into Molton Iron.
+- Ores from the Defiled Lands can now be processed in NuclearCraft machines.
+- Added a crafting recipe for Bottles O' Enchanting.
 
 # ============================================== #

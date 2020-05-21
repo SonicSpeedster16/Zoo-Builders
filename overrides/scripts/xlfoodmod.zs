@@ -44,6 +44,15 @@ recipes.addShaped("Pumpkin_Stew_OreDict",
   [null, <minecraft:pumpkin>, null]
 ]);
 
+# Breakfast Sandwich
+recipes.removeByRecipeName("xlfoodmod:breakfast_sandwich");
+recipes.addShaped("Breakfast_Sandwich_OreDict",
+<xlfoodmod:breakfast_sandwich>, [
+  [<xlfoodmod:cooked_dough>, <xlfoodmod:cooked_dough>, <xlfoodmod:cooked_dough>],
+  [<xlfoodmod:bacon>, <ore:foodCheese>, <ore:foodFriedegg>],
+  [<xlfoodmod:cooked_dough>, <xlfoodmod:cooked_dough>, <xlfoodmod:cooked_dough>]
+]);
+
 # Fish Pie
 recipes.removeByRecipeName("xlfoodmod:fish_pie");
 recipes.addShapeless("Fish_Pie_OreDict", 

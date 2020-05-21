@@ -18,10 +18,18 @@ mods.nuclearcraft.pressurizer.addRecipe([<minecraft:coal_block>, <chisel:block_c
 # Add a method to process Rock Salt
 mods.nuclearcraft.manufactory.addRecipe([<xlfoodmod:rock_salt>, <xlfoodmod:salt>*4]);
 
+# Add ability to melt down undamaged anvils and cauldrons
+mods.nuclearcraft.melter.addRecipe([<minecraft:anvil>, <liquid:iron>*3888, 12.0, 1.0, 0.0]);
+mods.nuclearcraft.melter.addRecipe([<minecraft:cauldron>, <liquid:iron>*1008, 6.0, 1.0, 0.0]);
+
 # Add support for Knightmetal
 mods.nuclearcraft.melter.addRecipe([<twilightforest:armor_shard_cluster>, <liquid:knightmetal>*144, 1.0, 1.0, 0.0]);
 mods.nuclearcraft.melter.addRecipe([<twilightforest:knightmetal_ingot>, <liquid:knightmetal>*144, 1.0, 1.0, 0.0]);
 mods.nuclearcraft.melter.addRecipe([<twilightforest:knightmetal_block>, <liquid:knightmetal>*1296, 1.0, 1.0, 0.0]);
+
+# Add support for Defiled Lands ores
+mods.nuclearcraft.manufactory.addRecipe([<defiledlands:hephaestite_ore>, <defiledlands:hephaestite>*2]);
+mods.nuclearcraft.manufactory.addRecipe([<defiledlands:scarlite_ore>, <defiledlands:scarlite>*2]);
 
 # Remove recipes for Ender IO Endergy materials (also Electrum)
 mods.nuclearcraft.alloy_furnace.removeRecipeWithOutput([<enderio:item_alloy_endergy_ingot:1>]);

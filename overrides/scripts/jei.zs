@@ -12,6 +12,7 @@ Custom Tooltips
 ~~~~~~~~~~~~~~*/
 
 <inventorypets:cloud_pet>.addTooltip(format.aqua("Provides Creative Flight"));
+<wards:enchanted_paper>.addTooltip(format.aqua("Powers wards."));
 
 /* ~~~~~~~~~~~~~~
 Remove/hide items

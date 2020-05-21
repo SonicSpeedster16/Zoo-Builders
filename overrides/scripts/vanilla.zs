@@ -12,6 +12,10 @@ recipes.addShaped("Name_Tag_custom",
   [<ore:ingotGold>, null, null]
 ]);
 
+# Add a method to obtain Bottle o' Enchanting
+recipes.addShapeless("Bottle_O_Enchanting_custom",
+<minecraft:experience_bottle>, [<wards:enchanted_paper>, <minecraft:glass_bottle>]);
+
 /*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Replace Vanilla items with OreDict items
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/

@@ -27,6 +27,8 @@ Add missing Ore Dictionary entries
 <ore:listAllmeatcooked>.add(<twilightforest:cooked_meef>);
 <ore:foodVenisonraw>.add(<twilightforest:raw_venison>);
 <ore:foodVenisoncooked>.add(<twilightforest:cooked_venison>);
+<ore:foodFriedegg>.add(<betteranimalsplus:fried_egg>);
+<ore:foodFriedegg>.add(<fossil:cooked_egg>);
 
 # Fruit
 <ore:listAllfruit>.add(<forestry:fruits:0>); /* Cherry */
@@ -38,6 +40,7 @@ Add missing Ore Dictionary entries
 # Fish
 <ore:listAllfishcooked>.add(<minecraft:cooked_fish>);
 <ore:listAllfishcooked>.add(<minecraft:cooked_fish:1>);
+<ore:listAllfishcooked>.add(<betteranimalsplus:eel_meat_cooked>);
 <ore:listAllfishcooked>.add(<zawa:cooked_cichlid>);
 
 # Seeds
