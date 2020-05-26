@@ -21,16 +21,25 @@ Replace Vanilla items with OreDict items
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
 recipes.replaceAllOccurences(<minecraft:milk_bucket>, <ore:listAllMilk>);
 
+# Fermented Spider Eye
+recipes.remove(<minecraft:fermented_spider_eye>);
+recipes.addShaped("Fermented_Spider_Eye_OreDict",
+<minecraft:fermented_spider_eye>, [
+  [<minecraft:spider_eye>, <ore:listAllmushroom>, null],
+  [<minecraft:sugar>, null, null],
+  [null, null, null]
+]);
+
 /*~~~~~~~~~~~~~
 Add QoL recipes
 ~~~~~~~~~~~~~~*/
 
 # Charcoal Blocks -> Charcoal
-recipes.addShapeless("Charcoal_Block_to_Charcaol", 
+recipes.addShapeless("Charcoal_Block_to_Charcaol",
 <minecraft:coal:1> * 9, [<chisel:block_charcoal2:1>]);
 
 # Clay Blocks -> Clay
-recipes.addShapeless("Clay_Block_to_Clay", 
+recipes.addShapeless("Clay_Block_to_Clay",
 <minecraft:clay_ball> * 4, [<minecraft:clay>]);
 
 # Block of Quartz -> Quartz
@@ -38,7 +47,7 @@ recipes.addShapeless("Quartz_Block_to_Quartz",
 <minecraft:quartz> * 4, [<minecraft:quartz_block>]);
 
 # Snow Blocks -> Snowballs
-recipes.addShapeless("Snow_Block_to_Snowballs", 
+recipes.addShapeless("Snow_Block_to_Snowballs",
 <minecraft:snowball> * 4, [<minecraft:snow>]);
 
 # Block of Glowstone -> Glowstone Dust
@@ -50,7 +59,7 @@ recipes.addShapeless("Gravel_to_Flint",
 <minecraft:flint>, [<minecraft:gravel>,<minecraft:gravel>,<minecraft:gravel>]);
 
 # Beetroot -> Beetroot Seeds
-recipes.addShaped("Beetroot_to_Beetroot_Seeds", 
+recipes.addShaped("Beetroot_to_Beetroot_Seeds",
 <minecraft:beetroot_seeds> * 2, [
   [<minecraft:beetroot>, <minecraft:beetroot>, null]
 ]);

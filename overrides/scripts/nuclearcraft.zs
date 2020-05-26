@@ -53,4 +53,17 @@ mods.nuclearcraft.alloy_furnace.addRecipe([<minecraft:iron_block>, <ore:blockCoa
 mods.nuclearcraft.alloy_furnace.removeRecipeWithOutput([<chisel:blockinvar:0>*3]);
 mods.nuclearcraft.alloy_furnace.addRecipe([<minecraft:iron_block>*2, <ore:blockNickel>, <factorytech:oreblock:3>*3, 9.0, 1.0, 0.0]);
 
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Replace specific items with OreDict items
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+
+# Domino's Special
+recipes.remove(<nuclearcraft:dominos>);
+recipes.addShaped("Domino_Special_OreDict",
+<nuclearcraft:dominos>*4, [
+  [<ore:foodBread>, <ore:foodBread>, <ore:foodBread>],
+  [<minecraft:cooked_porkchop>, <minecraft:cooked_beef>, <minecraft:cooked_chicken>],
+  [<minecraft:cooked_mutton>, <ore:listAllmushroom>, <ore:listAllmushroom>]
+]);
+
 print("==== Initialized nuclearcraft.zs ====");

@@ -5,11 +5,11 @@
 print("==== Initializing actuallyadditions.zs ====");
 
 # Blocks/Pillers of Black Quartz -> Black Quartz
-recipes.addShapeless("Black_Quartz_Block_to_Black_Quartz", 
+recipes.addShapeless("Black_Quartz_Block_to_Black_Quartz",
 <actuallyadditions:item_misc:5> * 4, [<actuallyadditions:block_misc:2>]);
-recipes.addShapeless("Chiseled_Black_Quartz_Block_to_Black_Quartz", 
+recipes.addShapeless("Chiseled_Black_Quartz_Block_to_Black_Quartz",
 <actuallyadditions:item_misc:5> * 4, [<actuallyadditions:block_misc:1>]);
-recipes.addShapeless("Pillar_Black_Quartz_Block_to_Black_Quartz", 
+recipes.addShapeless("Pillar_Black_Quartz_Block_to_Black_Quartz",
 <actuallyadditions:item_misc:5> * 2, [<actuallyadditions:block_misc:0>]);
 
 # Add missing doughnut recipe
@@ -20,13 +20,22 @@ recipes.addShaped("Doughnut",
   [null, <actuallyadditions:item_misc:4>, null]
 ]);
 
+# Fix broken Hamburger recipe
+recipes.remove(<actuallyadditions:item_food:13>);
+recipes.addShaped("AA_Hamburger",
+<actuallyadditions:item_food:13>, [
+  [null, <actuallyadditions:item_food:10>, null],
+  [<actuallyadditions:item_food:0>, <minecraft:cooked_beef>, null],
+  [null, <actuallyadditions:item_food:10>, null]
+]);
+
 /*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Replace specific items with OreDict items
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
 
 # Fish 'N' Chips
 recipes.remove(<actuallyadditions:item_food:3>);
-recipes.addShaped("Pizza_OreDict",
+recipes.addShaped("Fish_N_Chips_OreDict",
 <actuallyadditions:item_food:3>, [
   [null, null, null],
   [<actuallyadditions:item_food:5>, <ore:listAllfishcooked>, <actuallyadditions:item_food:5>],

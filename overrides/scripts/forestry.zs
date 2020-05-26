@@ -12,4 +12,7 @@ recipes.addShaped("Silk_Wisp_custom",
   [<ore:treeLeaves>, <ore:treeLeaves>, <ore:treeLeaves>]
 ]);
 
+# Honey Bucket to Honey Drops
+recipes.addShapeless("For_Honey_Bucket_to_Drops", <forestry:honey_drop> * 4, [<forge:bucketfilled>.withTag({FluidName: "for.honey", Amount: 1000})]);
+
 print("==== Initialized forestry.zs ====");

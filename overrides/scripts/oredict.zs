@@ -43,6 +43,13 @@ Add missing Ore Dictionary entries
 <ore:listAllfishcooked>.add(<betteranimalsplus:eel_meat_cooked>);
 <ore:listAllfishcooked>.add(<zawa:cooked_cichlid>);
 
+# Mushrooms
+<ore:listAllmushroom>.add(<minecraft:brown_mushroom>);
+//<ore:listAllmushroom>.add(<minecraft:red_mushroom>);
+<ore:listAllmushroom>.add(<biomesoplenty:mushroom:0>); /* Toadstool */
+<ore:listAllmushroom>.add(<biomesoplenty:mushroom:1>); /* Portobello */
+<ore:listAllmushroom>.add(<biomesoplenty:mushroom:4>); /* Flat Mushroom */
+
 # Seeds
 <ore:listAllSeed>.add(<minecraft:wheat_seeds>);
 <ore:listAllSeed>.add(<minecraft:pumpkin_seeds>);
@@ -67,6 +74,8 @@ Add missing Ore Dictionary entries
 # Misc
 <ore:mycelium>.add(<biomesoplenty:grass:8>);
 <ore:listAllMilk>.add(<minecraft:milk_bucket>);
+<ore:beeComb>.add(<biomesoplenty:honeycomb>);
+<ore:beeComb>.add(<rustic:honeycomb>);
 
 # For custom recipes:
 <ore:itemWorm>.add(<actuallyadditions:item_worm>);
@@ -76,5 +85,6 @@ Add missing Ore Dictionary entries
 Remove Ore Dictionary entries
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
 <ore:blockGlassWhite>.remove(<enderio:block_fused_glass>);  /* Quite CLEAR Glass is not white */
+<ore:listAllmushroom>.remove(<defiledlands:scuronotte>);
 
 print("==== Initialized oredict.zs ====");

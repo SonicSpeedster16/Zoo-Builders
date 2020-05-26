@@ -1,0 +1,22 @@
+﻿# ============================================== #
+#         Zoo Builders 1.9.0 (XX-XX-2020)        #
+# ============================================== #
+
+
+# ================= Mod Changes ================ #
+
+- Updated Athenaeum (1.18.0 > 1.18.1)
+- Updated Factory Tech (1.6.A > 1.6.B)
+- Updated Large Fluid Tank (12.5.0 > 12.5.1)
+
+# =============== Config Changes =============== #
+
+- Tweaked and added loot to Deep Mob Learning.
+
+# =============== Script Changes =============== #
+
+- Added mushrooms to the Ore Dictionary.
+- Unified honey from BOP and Forestry.
+- Fixed recipe for Actually Additions Hamburger
+
+# ============================================== #

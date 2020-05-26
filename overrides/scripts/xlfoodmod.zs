@@ -55,7 +55,7 @@ recipes.addShaped("Breakfast_Sandwich_OreDict",
 
 # Fish Pie
 recipes.removeByRecipeName("xlfoodmod:fish_pie");
-recipes.addShapeless("Fish_Pie_OreDict", 
+recipes.addShapeless("Fish_Pie_OreDict",
 <xlfoodmod:fish_pie>, [<xlfoodmod:pie_shell>, <ore:listAllfishcooked>]);
 
 print("==== Initialized xlfoodmod.zs ====");

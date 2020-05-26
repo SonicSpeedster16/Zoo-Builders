@@ -7,7 +7,7 @@ import mods.jei.JEI;
 
 print("==== Initializing jei.zs ====");
 
-/* ~~~~~~~~~~~~ 
+/* ~~~~~~~~~~~~
 Custom Tooltips
 ~~~~~~~~~~~~~~*/
 
