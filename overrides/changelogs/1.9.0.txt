@@ -5,6 +5,7 @@
 
 # ================= Mod Changes ================ #
 
+- Added AI Improvements
 - Updated Athenaeum (1.18.0 > 1.18.1)
 - Updated Deep Mob Learning (2.5.2 > 2.5.3)
 - Updated Factory Tech (1.6.A > 1.6.B)
