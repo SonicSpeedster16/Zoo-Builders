@@ -7,7 +7,7 @@
 
 - Added AI Improvements
 - Updated Athenaeum (1.18.0 > 1.18.1)
-- Updated Deep Mob Learning (2.5.2 > 2.5.3)
+- Updated Deep Mob Learning (2.5.2 > 2.5.4)
 - Updated Factory Tech (1.6.A > 1.6.B)
 - Updated Inventory Pets (2.0.5 > 2.0.6)
 - Updated Large Fluid Tank (12.5.0 > 12.5.1)
