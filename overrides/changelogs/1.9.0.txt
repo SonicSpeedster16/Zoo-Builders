@@ -1,5 +1,5 @@
 ﻿# ============================================== #
-#         Zoo Builders 1.9.0 (XX-XX-2020)        #
+#         Zoo Builders 1.9.0 (06-04-2020)        #
 # ============================================== #
 
 
@@ -12,8 +12,8 @@
 - Updated Inventory Pets (2.0.5 > 2.0.6)
 - Updated Large Fluid Tank (12.5.0 > 12.5.1)
 - Updated Rustic (1.1.3 > 1.1.4)
-- Updated Xaero's Minimap (20.11.0 > 20.12.1)
-- Updated Xaero's World Map (1.5.7 > 1.6.1)
+- Updated Xaero's Minimap (20.11.0 > 20.12.2)
+- Updated Xaero's World Map (1.5.7 > 1.6.2)
 
 # =============== Config Changes =============== #
 
